@@ -1,2 +1,6 @@
 Đây file week1.txt
+<<<<<<<HEAD
 Thuộc brand: week1 mà thôi
+========
+Thuộc branch: week1 và main
+>>>>>>>
